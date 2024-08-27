@@ -1,15 +1,26 @@
-# AI for Colonoscopy
+# AI4Colonoscopy: Revolutionizing Cancer Prevention
 
-## Why colonoscopy means a lot? 
+Hey there! 👋 Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of AI-powered colonoscopies!
 
-Colorectal cancer, one of the leading causes of cancer-related deaths worldwide, can often be prevented through early detection and removal of precancerous polyps during colonoscopies. However, the accuracy of these procedures heavily relies on the endoscopist's expertise and attention, which can be subject to human limitations such as fatigue and varying levels of experience.
+## Why Should You Care About Colonoscopies?
 
-## Why AI?
+Let's face it - colorectal cancer is a big deal. It's one of the top cancer killers worldwide. But here's the good news: we can often prevent it if we catch it early. That's where colonoscopies come in. They're our best shot at finding and removing those sneaky precancerous polyps before they cause trouble.
 
-Artificial Intelligence (AI) is revolutionizing the field of gastroenterology, particularly in colonoscopy procedures. Our research project explores the critical role of AI in enhancing the accuracy, efficiency, and overall effectiveness of colonoscopies. 
+But here's the catch - colonoscopies are only as good as the doctor performing them. And let's be real, even the best doctors are human. They get tired, they might miss things, and some are more experienced than others.
 
-## Welcome to the world of intelligent colonscopy
+## Enter AI: The Game-Changer
 
-We have witnessed a huge progress of intelligent colonoscopy techniques in past five years
+This is where AI swoops in like a superhero! We're using cutting-edge artificial intelligence to give colonoscopies a major upgrade. Think of it as giving doctors a pair of super-powered glasses that help them spot things they might otherwise miss.
 
-- In MICCAI'2020 conference, we build a gloden baseline model PraNet ([Springer page](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)) for image-level polyp segmentation, which is pretty popular in the research community and received more than 1100+ citations ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C)) and 400+ stars ([GitHub](https://github.com/DengPingFan/PraNet)).
+## Welcome to the Future of Colonoscopies!
+
+The past five years have been a wild ride in the world of **intelligent colonoscopy** techniques. Let me tell you about one of our proudest achievements:
+
+- `2020-MICCAI PraNet` for image-level polyp segmentation
+    - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
+    - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is pretty with more than 400 stars!
+- `2021-MICCAI PNSNet` for video-level polyp segmentation
+- `2022-MIR SUN-SEG` for video-level polyp segmentation
+- This year! We ... 
+
+But hey, this is just the beginning. We're on a mission to make colonoscopies smarter, more accurate, and ultimately save more lives. Want to join us on this exciting journey? Keep reading, and let's revolutionize cancer prevention together! 🚀🔬
