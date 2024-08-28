@@ -44,6 +44,8 @@ The past few years have been a wild ride in the world of **intelligent colonosco
     - 💥 Developing the first multimodal language model ColonGPT that can handle conversational tasks based on user preferences.
     - 💥 Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
 
-## 🔭 Bottom line
+## 🔭 Move forward bravely
 
-But this is just the beginning. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together! 🚀🔬
+But hey, this is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together!
+
+Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy.
