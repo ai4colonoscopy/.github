@@ -1,6 +1,6 @@
 # AI4Colonoscopy: Revolutionizing Cancer Prevention
 
-Hey there! 👋 Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of AI-powered colonoscopies!
+Hey there! 👋 Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of **AI-powered Colonoscopy**!
 
 ## Why Should You Care About Colonoscopies?
 
