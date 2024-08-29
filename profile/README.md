@@ -26,23 +26,23 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
 ## 🌏 IntelliScope Adventure: Welcome to the World of Intelligent Colonoscopy!
 
 The past few years have been a wild ride in the world of **intelligent colonoscopy** techniques. Let me tell you about one of our proudest achievements:
-- `[2024] ColonINST & ColonGPT` (On the way! Stay tuned and keep patience!)
+- `[2024]` **ColonINST & ColonGPT** (On the way! Stay tuned and keep patience!)
     - This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
     - 💥 Collecting a very-large multimodal dataset ColonINST, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
     - 💥 Developing the first multimodal language model ColonGPT that can handle conversational tasks based on user preferences.
     - 💥 Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
-- `[MIR-2024] Drag&Drop` ([Paper](https://link.springer.com/article/10.1007/s11633-023-1380-5) & [Code](https://github.com/johnson111788/Drag-Drop))
+- `[MIR-2024]` **Drag&Drop** ([Paper](https://link.springer.com/article/10.1007/s11633-023-1380-5) & [Code](https://github.com/johnson111788/Drag-Drop))
     -  💥 We introduces the first high-dimensional annotation method, eliminating the need for slice-by-slice labeling.
     -  Cuts annotation effort by 87.5% in video polyp detection while maintaining or improving performance.
     -  Increases polyp detection precision by 7.8% with the same annotation budget compared to per-pixel methods.
-- `[MIR-2022] SUN-SEG` ([Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [Code](https://github.com/GewelsJI/VPS))
+- `[MIR-2022]` **SUN-SEG** ([Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [Code](https://github.com/GewelsJI/VPS))
     - 💥 We introduce a large-scale and high-quality per-frame annotated VPS dataset, named SUN-SEG, which includes 158,690 frames from the famous [SUN-database](http://amed8k.sundatabase.org/). We extend the expert labels with diverse types, ie, object mask, boundary, scribble, polygon, and visual attribute.
     - Paving the way for future research in colonoscopy video content analysis, with fine-grained categories, annotations.
-- `[MICCAI'2021] PNSNet` ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) & [Code](https://github.com/GewelsJI/PNS-Net))
+- `[MICCAI'2021]` **PNSNet** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) & [Code](https://github.com/GewelsJI/PNS-Net))
     - 💥 This super-efficient model (~140fps) is designed for video-level polyp segmentation.
     - We received MICCAI Student Travel Award ([link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
     - It's already racked up over 130 citations ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oaxKYKUAAAAJ&authuser=1&citation_for_view=oaxKYKUAAAAJ:MXK_kJrjxJIC)).
-- `[MICCAI'2020] PraNet` ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) & [Code](https://github.com/DengPingFan/PraNet))
+- `[MICCAI'2020]` **PraNet** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) & [Code](https://github.com/DengPingFan/PraNet))
     - 💥 A gloden baseline for image-level polyp segmentation
     - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
     - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is very popular with more than 400 stars!
