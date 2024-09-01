@@ -2,6 +2,10 @@
 
 Hey there! 👋 Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of **intelligent colonoscopy**!
 
+## 🙋 News
+
+- [2024/09/01] Page release
+
 ## 🏥 Why Should You Care About Colonoscopy?
 
 Let's face it - colorectal cancer is a big deal. It's one of the top cancer killers worldwide. But here's the good news: we can often prevent it if we catch it early. That's where colonoscopies come in. They're our best shot at finding and removing those sneaky precancerous polyps before they cause trouble to your body.
@@ -9,6 +13,8 @@ Let's face it - colorectal cancer is a big deal. It's one of the top cancer kill
 But here's the catch - colonoscopies are only as good as the doctor performing them. And let's be real, even the best doctors are human. They get tired, they might miss things sometimes, and some are more experienced than others.
 
 ## 🤖 Enter AI: The Game-Changer
+
+<img align="right" src="https://github.com/user-attachments/assets/0de36f70-703b-49f4-ad6b-6c53000dc632" width="475px" />
 
 This is where AI swoops in like a superhero! We're using cutting-edge artificial intelligence to endower colonoscopy a major upgrade. Think of it as giving doctors a pair of super-AI-powered glasses that help them spot things they might otherwise miss.
 
@@ -22,6 +28,7 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
     - It's not just about spotting polyps. Our AI provides a comprehensive view of the colon, helping doctors make more accurate assessments.
 - 😀 **No added risk to colonoscopy**
     - Here's the best part - all these benefits come with zero additional risk to the patient. It's like getting a free upgrade on your health check!
+
 
 ## 🌏 IntelliScope Adventure: Welcome to the World of Intelligent Colonoscopy!
 
@@ -46,7 +53,6 @@ The past few years have been a wild ride in the world of **intelligent colonosco
     - 💥 A gloden baseline for image-level polyp segmentation
     - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
     - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is very popular with more than 400 stars!
-
 
 
 ## 🔭 Move Forward Bravely
