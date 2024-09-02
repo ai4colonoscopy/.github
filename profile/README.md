@@ -4,7 +4,7 @@
 
 ## 🙋 News
 
-- [2024/09/01] Page release
+- [2024/09/01] Project page release
 
 ## 🏥 Why Should You Care About Colonoscopy?
 
@@ -32,7 +32,7 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
 - 🎯 **High sensitivity in distinguishing precancerous polyps**
     - Not all polyps are created equal. Our AI is trained to differentiate between the harmless ones and those that could become cancerous, helping doctors prioritize treatment.
 - 🖼️ **Enhanced overall precision of colon evaluation**
-    - It's not just about spotting polyps. Our AI provides a comprehensive view of the colon, helping doctors make more accurate assessments.
+    - It's not just about spotting polyps. AI provides a comprehensive view of the colon, helping doctors make more accurate assessments.
 - 😀 **No added risk to colonoscopy**
     - Here's the best part - all these benefits come with zero additional risk to the patient. It's like getting a free upgrade on your health check!
 
@@ -55,8 +55,8 @@ The past few years have been a wild ride in the world of **intelligent colonosco
     - Authors: [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇺 Australian National University), [Guobao Xiao](https://jsj.mju.edu.cn/2018/1014/c2248a67381/page.htm) (🇨🇳 Minjiang University), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇺🇸 Johns Hopkins University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Kai Zhao](https://scholar.google.com/citations?hl=en&user=zR5JbZUAAAAJ) (🇺🇸 University of California, Los Angeles), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en&authuser=1) (🇨🇭 ETH Zürich)
     - 💥 We introduce a large-scale and high-quality per-frame annotated VPS dataset, named SUN-SEG, which includes 158,690 frames from the famous [SUN-database](http://amed8k.sundatabase.org/). We extend the expert labels with diverse types, ie, object mask, boundary, scribble, polygon, and visual attribute.
     - Paving the way for future research in colonoscopy video content analysis, with fine-grained categories, annotations.
-- `[MICCAI'2021]` **PNSNet** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) & [Code](https://github.com/GewelsJI/PNS-Net))
-    - Authors: [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Debesh Jha](https://scholar.google.com/citations?user=mMTyE68AAAAJ&hl=en) (🇳🇴 SimulaMet), and [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
+- `[MICCAI'2021]` **PNS-Net** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) & [Code](https://github.com/GewelsJI/PNS-Net))
+    - Authors: [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Debesh Jha](https://scholar.google.com/citations?user=mMTyE68AAAAJ&hl=en) (🇳🇴 SimulaMet), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
     - 💥 This super-efficient model (~140fps) is designed for video-level polyp segmentation.
     - We received MICCAI Student Travel Award ([link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
     - It's already racked up over 130 citations ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oaxKYKUAAAAJ&authuser=1&citation_for_view=oaxKYKUAAAAJ:MXK_kJrjxJIC)).
@@ -69,6 +69,4 @@ The past few years have been a wild ride in the world of **intelligent colonosco
 
 ## 🔭 Move Forward Bravely
 
-But hey, this is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together!
-
-Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy.
+This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together! Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy.
