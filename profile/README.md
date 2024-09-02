@@ -8,6 +8,13 @@ Hey there! 👋 Ever wondered how we could make colonoscopies more effective? We
 
 ## 🏥 Why Should You Care About Colonoscopy?
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34704607-a76e-4991-91bf-762ed49a36d5" width="675px" />
+  <br>
+  <em> Illustration of a colonoscope inside large intestine (colon). Image credit: https://www.vecteezy.com </em>
+</p>
+
+
 Let's face it - colorectal cancer is a big deal. It's one of the top cancer killers worldwide. But here's the good news: we can often prevent it if we catch it early. That's where colonoscopies come in. They're our best shot at finding and removing those sneaky precancerous polyps before they cause trouble to your body.
 
 But here's the catch - colonoscopies are only as good as the doctor performing them. And let's be real, even the best doctors are human. They get tired, they might miss things sometimes, and some are more experienced than others.
