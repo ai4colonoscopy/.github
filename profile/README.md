@@ -28,9 +28,9 @@ This is where AI swoops in like a superhero! We're using cutting-edge artificial
 That's why we're going to explore the critical role of AI in colonoscopy. Here's what AI brings to the table:
 
 - 🔍 **Improved polyp detection rates**
-    - Our AI is like a tireless assistant, constantly scanning for even the tiniest polyps that human eyes might overlook.
+    - AI is like a tireless assistant, constantly scanning for even the tiniest polyps that human eyes might overlook.
 - 🎯 **High sensitivity in distinguishing precancerous polyps**
-    - Not all polyps are created equal. Our AI is trained to differentiate between the harmless ones and those that could become cancerous, helping doctors prioritize treatment.
+    - Not all polyps are created equal. AI can be trained to differentiate between the harmless ones and those that could become cancerous, helping doctors prioritize treatment.
 - 🖼️ **Enhanced overall precision of colon evaluation**
     - It's not just about spotting polyps. AI provides a comprehensive view of the colon, helping doctors make more accurate assessments.
 - 😀 **No added risk to colonoscopy**
