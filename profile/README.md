@@ -9,7 +9,7 @@ Hey there! 👋 Ever wondered how we could make colonoscopies more effective? We
 ## 🏥 Why Should You Care About Colonoscopy?
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/34704607-a76e-4991-91bf-762ed49a36d5" width="675px" />
+  <img src="https://github.com/user-attachments/assets/0fc5d354-e4ab-4fcf-ad7d-a047f53075e7" width="1000px" />
   <br>
   <em> Illustration of a colonoscope inside large intestine (colon). Image credit: https://www.vecteezy.com </em>
 </p>
