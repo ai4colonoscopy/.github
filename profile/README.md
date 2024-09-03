@@ -4,7 +4,7 @@
 
 ## 🙋 News
 
-- [2024/09/01] Project page release
+- [2024/09/01] Create welcome page
 
 ## 🏥 Why Should You Care About Colonoscopy?
 
@@ -66,6 +66,9 @@ The past few years have been a wild ride in the world of **intelligent colonosco
     - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
     - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is very popular with more than 400 stars!
 
+One more thing, we ready some handbooks for your convenienice to dive into this research domain
+
+- [Awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy) Must read papers
 
 ## 🔭 Move Forward Bravely
 
