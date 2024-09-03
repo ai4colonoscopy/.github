@@ -1,4 +1,4 @@
-# AI4Colonoscopy: Revolutionizing Cancer Prevention
+![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
 👋 Hey there! Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of **intelligent colonoscopy**!
 
