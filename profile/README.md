@@ -1,6 +1,6 @@
 ![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
-👋 Hey there! Ever wondered how we could make colonoscopies more effective? Well, buckle up, because we're about to dive into the exciting world of **intelligent colonoscopy**!
+Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of **intelligent colonoscopy**!
 
 ## 🙋 News
 
@@ -66,9 +66,10 @@ The past few years have been a wild ride in the world of **intelligent colonosco
     - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
     - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is very popular with more than 400 stars!
 
-One more thing, we ready some handbooks for your convenienice to dive into this research domain
+<!-- One more thing, we ready some handbooks for your convenienice to dive into this research domain
 
-- [Awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy) Must read papers
+- Must read papers related to colonoscopy [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy) 
+- [colonoscopy-dataset] -->
 
 ## 🔭 Move Forward Bravely
 
