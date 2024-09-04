@@ -1,6 +1,13 @@
 ![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
-Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of **intelligent colonoscopy**!
+Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of **intelligent colonoscopy**! A quick view of what we build for the research community:
+
+- **Discussion Forum** ➡️ refer to our [Welcome Page](https://github.com/orgs/ai4colonoscopy/discussions/1)
+  - Join our central hub where you can ask questions, showcase your work, share insights, and access valuable data resources.
+- **Must-reading List** ➡️ refer to our [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy)
+  - Explore our curated list of essential colonoscopy literature, complete with detailed reading notes to enhance your understanding.
+- **AI Express** ➡️ refer to our [ai-paper-express](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy/tree/main/ai-paper-express)
+  - Discover a platform for sharing the latest AI research papers across various fields, not limited to medical domains.
 
 ## 🙋 News
 
