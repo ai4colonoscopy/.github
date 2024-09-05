@@ -2,7 +2,7 @@
 
 Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy! **A quick nvigation of what we offer here for the IntelliScope Community:**
 
-- 🔥 **Discussion forum** ➡️ refer to our [welcome page](https://github.com/orgs/ai4colonoscopy/discussions/1) Join our central hub where you can
+- 🔥 **Discussion forum** ➡️ Join our [central hub](https://github.com/orgs/ai4colonoscopy/discussions/1) where you can
   - [(SUBFORUM#1) ask any questions](https://github.com/orgs/ai4colonoscopy/discussions/categories/any-q-a) 😥 *“论文中遇见了问题？代码不会跑？“*
   - [(SUBFORUM#2) showcase/promote your work](https://github.com/orgs/ai4colonoscopy/discussions/categories/show-tell) 😥 *”想增加论文影响力？如何向社区宣传自己的工作？“*
   - [(SUBFORUM#3) access data resources](https://github.com/orgs/ai4colonoscopy/discussions/categories/data-helpdesk) 😥 *“下载不到数据？如何使用/处理手头的数据？”*
