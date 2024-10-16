@@ -1,16 +1,16 @@
 ![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
-Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy! **A quick nvigation of what we offer here for the IntelliScope Community:**
+Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
 
-- 🔥 **Discussion forum** ➡️ Join our [central hub](https://github.com/orgs/ai4colonoscopy/discussions/1) where you can
+[Welcome to AI4Colonoscopy Discussion Forum!](https://github.com/orgs/ai4colonoscopy/discussions/1)
   - [(SUBFORUM#1) ask any questions](https://github.com/orgs/ai4colonoscopy/discussions/categories/any-q-a) 😥 *“论文中遇见了问题？代码不会跑？“*
   - [(SUBFORUM#2) showcase/promote your work](https://github.com/orgs/ai4colonoscopy/discussions/categories/show-tell) 😥 *”想增加论文影响力？如何向社区宣传自己的工作？“*
   - [(SUBFORUM#3) access data resources](https://github.com/orgs/ai4colonoscopy/discussions/categories/data-helpdesk) 😥 *“下载不到数据？如何使用/处理手头的数据？”*
   - [(SUBFORUM#4) share research ideas](https://github.com/orgs/ai4colonoscopy/discussions/categories/ideas-collaborations) 😥 *”找不到合作者？想不出有趣的idea？“*
-- 🔥 **Handbook** ➡️ refer to our [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy)
+<!-- - 🔥 **Handbook** ➡️ refer to our [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy)
   - Explore our curated list of must-read colonoscopy literature, complete with detailed intensive/extensive reading notes for your convenience.
 - 🔥 **AI Express** ➡️ refer to our [ai-paper-express](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy/tree/main/ai-paper-express)
-  - Discover a platform for sharing the latest AI research papers across various fields, not limited to medical domains.
+  - Discover a platform for sharing the latest AI research papers across various fields, not limited to medical domains. -->
 
 ## 🙋 News
 
