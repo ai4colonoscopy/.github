@@ -73,9 +73,7 @@ The past few years have been a wild ride in the world of **intelligent colonosco
 
 ## 🔭 Move Forward Bravely
 
-This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together! Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy.
-
-Welcome to our [AI4Colonoscopy Discussion Forum](https://github.com/orgs/ai4colonoscopy/discussions/1)
+This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together! Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy. Welcome to our [AI4Colonoscopy Discussion Forum](https://github.com/orgs/ai4colonoscopy/discussions/1)
   - [(SUBFORUM#1) ask any questions](https://github.com/orgs/ai4colonoscopy/discussions/categories/any-q-a) 😥 *“论文中遇见了问题？代码不会跑？“*
   - [(SUBFORUM#2) showcase/promote your work](https://github.com/orgs/ai4colonoscopy/discussions/categories/show-tell) 😥 *”想增加论文影响力？如何向社区宣传自己的工作？“*
   - [(SUBFORUM#3) access data resources](https://github.com/orgs/ai4colonoscopy/discussions/categories/data-helpdesk) 😥 *“下载不到数据？如何使用/处理手头的数据？”*
