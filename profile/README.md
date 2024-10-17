@@ -3,7 +3,7 @@
 Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
 
 ## 🙋 News
-
+   
 - [2024/09/01] Create welcome page
 
 ## 🏥 Why Should You Care About Colonoscopy?
