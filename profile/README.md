@@ -41,9 +41,9 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
 
 The past few years have been a wild ride in the world of **intelligent colonoscopy** techniques. Let me tell you about one of our proudest achievements:
 
-- 🔥 `[2024]` **ColonINST & ColonGPT** (On the way! Stay tuned and keep patience!)
+- 🔥 `[2024]` **ColonINST & ColonGPT** ([arXiv Paper](https://arxiv.org/abs/2410.17241) & [Project page](https://github.com/ai4colonoscopy/IntelliScope))
     - This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
-    - 💥 Collecting a very-large multimodal dataset ColonINST, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
+    - 💥 Collecting a large-scale multimodal instruction tuning dataset ColonINST, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
     - 💥 Developing the first multimodal language model ColonGPT that can handle conversational tasks based on user preferences.
     - 💥 Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
 - 🔥 `[MIR-2024]` **Drag&Drop** ([Paper](https://link.springer.com/article/10.1007/s11633-023-1380-5) & [Code](https://github.com/johnson111788/Drag-Drop))
