@@ -3,7 +3,8 @@
 Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
 
 ## 🙋 News
-   
+
+- [2024/10/30] Release [IntelliScope project](https://github.com/ai4colonoscopy/IntelliScope) pushing colonoscopy research from pure vision to multimodal analysis
 - [2024/09/01] Create welcome page
 
 ## 🏥 Why Should You Care About Colonoscopy?
