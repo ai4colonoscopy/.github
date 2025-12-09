@@ -1,11 +1,12 @@
 ![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
-Hey there 👋 Ever wondered how we can make colonoscopies more effective? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
+Hey there 👋 Ever wondered how we can make colonoscopies more effective for early cancer detection? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
 
 ## 🙋 News
 
-- [2024/10/30] Release [IntelliScope project](https://github.com/ai4colonoscopy/IntelliScope) pushing colonoscopy research from pure vision to multimodal analysis
-- [2024/09/01] Create welcome page
+- [2025/Dec/09] 🔥🔥 Released the [Colon-X](https://github.com/ai4colonoscopy/Colon-X) project, focusing on a critical yet underexplored transition — evolving from multimodal understanding to clinical reasoning. Read our paper: https://arxiv.org/abs/2512.03667.
+- [2024/Oct/30] 🔥 Released the [IntelliScope](https://github.com/ai4colonoscopy/IntelliScope) project, pushing colonoscopy research from pure visual analysis to multimodal analysis. Read our paper: https://arxiv.org/abs/2410.17241.
+- [2024/Sep/01] Created the welcome page.
 
 ## 🏥 Why Should You Care About Colonoscopy?
 
