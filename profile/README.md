@@ -106,7 +106,12 @@ To better understand developments in this rapidly changing field and accelerate 
 </div>
 
 - 📚 **[Title]** PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation ([Paper link](https://arxiv.org/abs/2504.10986) & [Code link](https://github.com/ai4colonoscopy/PraNet-V2))
-- 
+- 🏆 **[Info]** Accepted by Computational Visual Media 2025
+- 🏛️ **[Authors]** [Bo-Cheng Hu](https://scholar.google.com/citations?user=VBb03aoAAAAJ) (🇨🇳 Nankai University), [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), [Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ) (🇨🇳 Northwest Polytechnical University, [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
+- 🌟 **[Research Highlights]**
+  - We extend the Reverse Attention (RA) mechanism from binary polyp segmentation to **multi-class medical image segmentation**.
+  - We introduce a **dual-supervised RA learning strategy**, which incorporates both primary and auxiliary supervision to enhance feature representation.
+  - PraNet-V2 achieves state-of-the-art performance on multiple challenging medical image segmentation datasets, demonstrating its versatility and effectiveness across various tasks.  
 
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
 
