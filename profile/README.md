@@ -82,6 +82,13 @@ To better understand developments in this rapidly changing field and accelerate 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b5db2d03-48fc-4419-b932-83463214a667"/> <br />
+    <em> 
+    Photo for MICCAI Young Scientist Publication Impact Award 2025 
+    </em>
+</p>
+
 - 📚 **[Title]** PraNet: Parallel Reverse Attention Network for Polyp Segmentation ([Paper link](https://arxiv.org/abs/2006.11392) & [Code link](https://github.com/DengPingFan/PraNet))
 - 🏆 **[Info]** Accepted by [MICCAI 2020 (Oral Presentation)](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) and has been cited over 2,100+ times (according to [Google Scholar](https://scholar.google.com/scholar?cites=15606470069856387091&as_sdt=2005&sciodt=0,5&hl=en) as of Dec 2024). Received [Most Influential Application Paper Award at the Jittor Developer Conference 2021](https://dengpingfan.github.io/papers/PraNet-Award.pdf) and [MICCAI Young Scientist Publication Impact Award 2025](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/).
 - 🏛️ **[Authors]** [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇨🇳 Wuhan University), [Tao Zhou](https://scholar.google.com/citations?user=LPPsgWUAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
