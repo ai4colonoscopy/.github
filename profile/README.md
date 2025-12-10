@@ -60,9 +60,13 @@ We introduce "ColonSurvey" project, contributing various useful resources for th
 </p>
 
 
-To better understand developments in this rapidly changing field and accelerate researchers’ progress, we are building a [📖paper reading list](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing), which includes a number of AI-based scientific studies on colonoscopy imaging from the past 12 years. 
-*[UPDATE ON OCT-14-2024]* In detail, our online list contains:
+> [!note]
+> 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email (📮 gepengai.ji@gmail.com) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
 
+
+To better understand developments in this rapidly changing field and accelerate researchers’ progress, we are building a [📖paper reading list](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing), which includes a number of AI-based scientific studies on colonoscopy imaging from the past 12 years. 
+
+*[UPDATE ON OCT-14-2024]* In detail, our online list contains:
 
 - Colonoscopy datasets 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=358592785#gid=358592785)
 - Colonoscopy models
@@ -72,8 +76,6 @@ To better understand developments in this rapidly changing field and accelerate 
    - Vision language tasks 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=404456121#gid=404456121)
    - 3D analysis tasks (*supplementary content) 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=1052886329#gid=1052886329)
 
-> [!note]
-> 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email (📮 gepengai.ji@gmail.com) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
 
 ### 🔴 Highlight-A -- Image Analysis in Colonoscopy 🔴
 
@@ -89,14 +91,32 @@ To better understand developments in this rapidly changing field and accelerate 
   - Inspired by human visual behavior when examining lesions and their surroundings, we introduce the **Reverse Attention (RA) mechanism**, enabling the model to refine its focus on ambiguous regions.
   - Deliver state-of-the-art segmentation performance across five challenging polyp datasets. PraNet also achieved **1st Place** in the MediaEval 2020 colonoscopy polyp segmentation challenge.
 
-#### 🎯 A.2. PraNet v2 -- Extending Reverse Attention for Multi-class Medical Segmentation
+#### 🎯 A.2. PraNet v2 -- Adapting Reverse Attention for Multi-class Medical Segmentation
 
+[![arXiv](https://img.shields.io/badge/arXiv-2504.10986-b31b1b.svg)](https://arxiv.org/abs/2504.10986) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/PraNet-V2?style=flat&logo=github)](https://github.com/ai4colonoscopy/PraNet-V2)
+
+<div align='left'>
+<video src="https://github.com/user-attachments/assets/6f4e91dd-f13b-4597-a896-26031656e5e6" controls width="600" />
+</div>
+
+- 📚 **[Title]** PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation ([Paper link](https://arxiv.org/abs/2504.10986) & [Code link](https://github.com/ai4colonoscopy/PraNet-V2))
+- 
 
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
 
 #### 🎯 B.1. PNS-Net -- A Super-efficient Model for Video Polyp Segmentation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.08468-b31b1b.svg)](https://arxiv.org/abs/2105.08468) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/PNS-Net?style=flat&logo=github)](https://github.com/GewelsJI/PNS-Net)
+
+<p align="center">
+    <img src="https://github.com/GewelsJI/PNS-Net/raw/main/imgs/VideoPresentation-min.gif"/> <br />
+    <em> 
+    Visualization --
+     1st row: Input colonoscopy video frames; 
+     2nd row: Ground-truth masks; 
+     3rd row: Predicted masks by our PNS-Net.
+    </em>
+</p>
 
 - 📚 **[Title]** Progressively Normalized Self-Attention Network for Video Polyp Segmentation ([Paper link](https://arxiv.org/abs/2105.08468) & [Code link](https://github.com/GewelsJI/PNS-Net))
 - 🏆 **[Info]** Accepted by [MICCAI 2021](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) and received [MICCAI Student Travel Award](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html)
@@ -108,6 +128,13 @@ To better understand developments in this rapidly changing field and accelerate 
 #### 🎯 B.2. SUN-SEG -- A Large-scale Benchmark for Video Polyp Segmentation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2203.14291-b31b1b.svg)](https://arxiv.org/abs/2203.14291) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/VPS?style=flat&logo=github)](https://github.com/GewelsJI/VPS)
+
+<p align="center">
+    <img src="https://github.com/GewelsJI/VPS/raw/main/assets/background-min.gif"/> <br />
+    <em> 
+    Sample gallery from our SUN-SEG dataset.
+    </em>
+</p>
 
 - 📚 **[Title]** Video Polyp Segmentation: A Deep Learning Perspective ([Paper link](https://arxiv.org/abs/2203.14291) & [Code link](https://github.com/GewelsJI/VPS))
 - 🏆 **[Info]** Published in [Machine Intelligence Research 2022](https://link.springer.com/article/10.1007/s11633-022-1371-y)
@@ -123,6 +150,14 @@ To better understand developments in this rapidly changing field and accelerate 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.17241-b31b1b.svg)](https://arxiv.org/abs/2410.17241) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/IntelliScope?style=flat&logo=github)](https://github.com/ai4colonoscopy/IntelliScope)
 
+<p align="center">
+    <img src="https://github.com/ai4colonoscopy/IntelliScope/raw/main/assets/coloninst-overview.png"/> <br />
+    <em> 
+    <b>Details of our multimodal instruction tuning dataset, ColonINST.</b> (a) Three sequential steps to create the instruction tuning dataset for multimodal research. (b) Numbers of colonoscopy images designated for training, validation, and testing purposes. (c) Data taxonomy of three-level categories. (d) A word cloud of the category distribution by name size. (e) Caption generation pipeline using the VL prompting mode of GPT-4V. (f) Numbers of human-machine dialogues created for four downstream tasks.
+    </em>
+</p>
+
+
 - 📚 **[Title]** IntelliScope: Pioneering Multimodal Intelligence in Colonoscopy ([Paper link](https://arxiv.org/abs/2410.17241) & [Code link](https://github.com/ai4colonoscopy/IntelliScope))
 - 🏆 **[Info]** Accepted by Machine Intelligence Research 2026
 - 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇯🇵 Keio University), [Peng Xu](https://scholar.google.com/citations?user=9_v4tC0AAAAJ&hl=en) (🇨🇳 Tsinghua University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University), [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
@@ -135,7 +170,16 @@ To better understand developments in this rapidly changing field and accelerate 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.03667-b31b1b.svg)](https://arxiv.org/abs/2512.03667) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/Colon-X?style=flat&logo=github)](https://github.com/ai4colonoscopy/Colon-X)
 
+<p align="center">
+    <img src="https://github.com/ai4colonoscopy/Colon-X/raw/main/assets/teaser_figure.png"/> <br />
+    <em> 
+    <b>Research roadmap of our Colon-X project.</b> Building upon the most comprehensive multimodal colonoscopy dataset (ColonVQA), we propel a pivotal transition in intelligent colonoscopy, evolving from multimodal understanding (ColonEval and ColonPert) to clinical reasoning (ColonReason and ColonR1). These efforts collectively illuminate the path to next-generation advances in clinical colonoscopy and broader medical applications.
+    </em>
+</p>
+
+
 - 📚 **[Title]** Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning ([arXiv Paper](https://arxiv.org/abs/2512.03667) & [Project page](https://github.com/ai4colonoscopy/Colon-X))
+- 🏆 **[Info]** Under reviewing
 - 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
 - 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions include:
     - ?
