@@ -101,7 +101,7 @@ To better understand developments in this rapidly changing field and accelerate 
 > - These shifts tend to occur periodically -- the brain scans → evaluates → rescans.
 > - Ambiguous or important regions receive more frequent revisits.
 > 
-> In shortm this mechanism is crucial for tasks such as detecting lesions, identifying boundaries, or resolving camouflaged objects. **Our Reverse Attention (RA) mimics this periodic reorientation** by refocusing on uncertain areas after processing more obvious regions.
+> In short, this mechanism is crucial for tasks such as detecting lesions, identifying boundaries, or resolving camouflaged objects. **Our Reverse Attention (RA) mimics this periodic reorientation** by refocusing on uncertain areas after processing more obvious regions.
 
 - 📚 **[Title]** PraNet: Parallel Reverse Attention Network for Polyp Segmentation ([Paper link](https://arxiv.org/abs/2006.11392) & [Code link](https://github.com/DengPingFan/PraNet))
 - 🏆 **[Info]** Accepted by [MICCAI 2020 (Oral Presentation)](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) and has been cited over 2,100+ times (according to [Google Scholar](https://scholar.google.com/scholar?cites=15606470069856387091&as_sdt=2005&sciodt=0,5&hl=en) as of Dec 2024). Received [Most Influential Application Paper Award at the Jittor Developer Conference 2021](https://dengpingfan.github.io/papers/PraNet-Award.pdf) and [MICCAI Young Scientist Publication Impact Award 2025](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/).
@@ -173,12 +173,12 @@ To better understand developments in this rapidly changing field and accelerate 
 - 📈 **[Citation]**
     ```bibliography
     @inproceedings{ji2021progressively,
-    title={Progressively normalized self-attention network for video polyp segmentation},
-    author={Ji, Ge-Peng and Chou, Yu-Cheng and Fan, Deng-Ping and Chen, Geng and Fu, Huazhu and Jha, Debesh and Shao, Ling},
-    booktitle={International conference on medical image computing and computer-assisted intervention},
-    pages={142--152},
-    year={2021},
-    organization={Springer}
+      title={Progressively normalized self-attention network for video polyp segmentation},
+      author={Ji, Ge-Peng and Chou, Yu-Cheng and Fan, Deng-Ping and Chen, Geng and Fu, Huazhu and Jha, Debesh and Shao, Ling},
+      booktitle={International conference on medical image computing and computer-assisted intervention},
+      pages={142--152},
+      year={2021},
+      organization={Springer}
     }
     ```
 
@@ -203,14 +203,14 @@ To better understand developments in this rapidly changing field and accelerate 
 - 📈 **[Citation]**
     ```bibliography
     @article{ji2022video,
-    title={Video polyp segmentation: A deep learning perspective},
-    author={Ji, Ge-Peng and Xiao, Guobao and Chou, Yu-Cheng and Fan, Deng-Ping and Zhao, Kai and Chen, Geng and Van Gool, Luc},
-    journal={Machine Intelligence Research},
-    volume={19},
-    number={6},
-    pages={531--549},
-    year={2022},
-    publisher={Springer}
+      title={Video polyp segmentation: A deep learning perspective},
+      author={Ji, Ge-Peng and Xiao, Guobao and Chou, Yu-Cheng and Fan, Deng-Ping and Zhao, Kai and Chen, Geng and Van Gool, Luc},
+      journal={Machine Intelligence Research},
+      volume={19},
+      number={6},
+      pages={531--549},
+      year={2022},
+      publisher={Springer}
     }
     ```
 
@@ -238,10 +238,10 @@ To better understand developments in this rapidly changing field and accelerate 
 - 📈 **[Citation]**
     ```bibliography
     @article{ji2026frontiers,
-    title={Frontiers in intelligent colonoscopy},
-    author={Ji, Ge-Peng and Liu, Jingyi and Xu, Peng and Barnes, Nick and Khan, Fahad Shahbaz and Khan, Salman and Fan, Deng-Ping},
-    journal={Machine Intelligence Research},
-    year={2026}
+      title={Frontiers in intelligent colonoscopy},
+      author={Ji, Ge-Peng and Liu, Jingyi and Xu, Peng and Barnes, Nick and Khan, Fahad Shahbaz and Khan, Salman and Fan, Deng-Ping},
+      journal={Machine Intelligence Research},
+      year={2026}
     }
     ```
 
@@ -268,12 +268,21 @@ To better understand developments in this rapidly changing field and accelerate 
 - 📈 **[Citation]**
     ```bibliography
     @article{ji2025colon,
-    title={Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning},
-    author={Ji, Ge-Peng and Liu, Jingyi and Fan, Deng-Ping and Barnes, Nick},
-    journal={arXiv preprint arXiv:2512.03667},
-    year={2025}
+      title={Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning},
+      author={Ji, Ge-Peng and Liu, Jingyi and Fan, Deng-Ping and Barnes, Nick},
+      journal={arXiv preprint arXiv:2512.03667},
+      year={2025}
     }
     ```
+
+## 🧩 Collaborating towards the neXt frontier
+
+We are actively looking for potential collaborators to help push this community forward — especially **hospitals or medical institutions that can provide diverse, real-world clinical colonoscopy data (eg., data across different devices, modalities, patient populations, and clinical workflows)**. If you’re interested in contributing or partnering with us, we’d be very happy to connect.
+
+We’re still on the journey toward building truly intelligent colonoscopy systems, and this project is very much under active development. We warmly welcome any feedback, ideas, or suggestions that can help shape its future.
+
+For any inquiries or thoughts you’d like to share, feel free to reach out to us at [📮gepengai.ji@gmail.com](mailto:gepengai.ji@gmail.com)
+
 
 ## 💬 Discussion Forum
 
@@ -283,11 +292,3 @@ This is just the start of building our Roman Empire 🔱. We’re on a mission t
   - [(SUBFORUM#2) showcase/promote your work](https://github.com/orgs/ai4colonoscopy/discussions/categories/show-tell) 😥 *”想增加论文影响力？如何向社区宣传自己的工作？“*
   - [(SUBFORUM#3) access data resources](https://github.com/orgs/ai4colonoscopy/discussions/categories/data-helpdesk) 😥 *“下载不到数据？如何使用/处理手头的数据？”*
   - [(SUBFORUM#4) share research ideas](https://github.com/orgs/ai4colonoscopy/discussions/categories/ideas-collaborations) 😥 *”找不到合作者？想不出有趣的idea？“*
-
-## 🧩 Collaborating towards the neXt frontier
-
-We are actively looking for potential collaborators to help push this community forward — especially **hospitals or medical institutions that can provide diverse, real-world clinical colonoscopy data (eg., data across different devices, modalities, patient populations, and clinical workflows)**. If you’re interested in contributing or partnering with us, we’d be very happy to connect.
-
-We’re still on the journey toward building truly intelligent colonoscopy systems, and this project is very much under active development. We warmly welcome any feedback, ideas, or suggestions that can help shape its future.
-
-For any inquiries or thoughts you’d like to share, feel free to reach out to us at [📮gepengai.ji@gmail.com](mailto:gepengai.ji@gmail.com)
