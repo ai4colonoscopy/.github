@@ -50,7 +50,11 @@ Next are some of the research breakthroughs from our team that shaped the field 
 
 ### 🔴 Survey on Intelligent Colonoscopy Techniques
 
-We introduce "ColonSurvey" project, contributing various useful resources for the community. We investigate 63 colonoscopy datasets and 137 deep learning models focused on colonoscopic scene perception, all sourced from leading conferences or journals since 2015. The below figure is a quick overview of our investigation; for a more detailed discussion, please refer to our paper in PDF format.
+> [!note]
+> 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email ([📮gepengai.ji@gmail.com](mailto:gepengai.ji@gmail.com)) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
+
+
+We introduce "ColonSurvey" via investigating 63 colonoscopy datasets and 137 deep learning models focused on colonoscopic scene perception, all sourced from leading conferences or journals since 2015. The below figure is a quick overview of our investigation; for a more detailed discussion, please refer to our paper: [Frontiers in Intelligent Colonoscopy](https://arxiv.org/abs/2410.17241).
 
 <p align="center">
     <img src="https://github.com/ai4colonoscopy/IntelliScope/raw/main/assets/colonsurvey.png"/> <br />
@@ -58,11 +62,6 @@ We introduce "ColonSurvey" project, contributing various useful resources for th
     Our investigation of 63 colonoscopy datasets and 137 deep learning models in colonoscopy.
     </em>
 </p>
-
-
-> [!note]
-> 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email (📮 gepengai.ji@gmail.com) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
-
 
 To better understand developments in this rapidly changing field and accelerate researchers’ progress, we are building a [📖paper reading list](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing), which includes a number of AI-based scientific studies on colonoscopy imaging from the past 12 years. 
 
@@ -158,13 +157,13 @@ To better understand developments in this rapidly changing field and accelerate 
 </p>
 
 
-- 📚 **[Title]** IntelliScope: Pioneering Multimodal Intelligence in Colonoscopy ([Paper link](https://arxiv.org/abs/2410.17241) & [Code link](https://github.com/ai4colonoscopy/IntelliScope))
+- 📚 **[Title]** Frontiers in Intelligent Colonoscopy ([Paper link](https://arxiv.org/abs/2410.17241) & [Code link](https://github.com/ai4colonoscopy/IntelliScope))
 - 🏆 **[Info]** Accepted by Machine Intelligence Research 2026
 - 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇯🇵 Keio University), [Peng Xu](https://scholar.google.com/citations?user=9_v4tC0AAAAJ&hl=en) (🇨🇳 Tsinghua University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University), [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
 - 🌟 **[Research Highlights]** This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
-    - 💥 Collecting a large-scale multimodal instruction tuning dataset ColonINST, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
-    - 💥 Developing the first multimodal language model ColonGPT that can handle conversational tasks based on user preferences.
-    - 💥 Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
+    - 💥 Collecting a large-scale multimodal instruction tuning dataset **ColonINST**, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
+    - 💥 Developing the first multimodal language model **ColonGPT** that can handle conversational tasks based on user preferences.
+    - Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
 
 #### 🎯 C.2. Colon-X -- Advancing colonoscopy from Multimodal Understanding to Clinical Reasoning
 
@@ -181,10 +180,10 @@ To better understand developments in this rapidly changing field and accelerate 
 - 📚 **[Title]** Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning ([arXiv Paper](https://arxiv.org/abs/2512.03667) & [Project page](https://github.com/ai4colonoscopy/Colon-X))
 - 🏆 **[Info]** Under reviewing
 - 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
-- 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions include:
-    - ?
-    - ?
-    - ?
+- 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions are three-fold:
+    - We introduce ColonVQA, the **most extensive** (1.1+ million VQA entries), **category-rich** (212,742 images across 76 clinically meaningful findings), and **task-diverse** (18 multimodal tasks organized within a five-level taxonomy) dataset ever built for multimodal colonoscopy analysis. 
+    - We characterize two multimodal understanding behaviors – generalizability (**ColonEval**) and reliability (**ColonPert**) – in colonoscopy tasks, and reveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
+    - 💥 We propose a reasoning-focused solution. It includes **ColonReason**, a reasoning dataset annotated by a multi-expert debating pipeline, and **ColonR1**, an R1-styled model enhanced with task-adaptive rewards and gradient-stable optimization, setting a new cutting-edge baseline for colonoscopy analysis.
 
 ## 💬 Discussion Forum
 
@@ -201,4 +200,4 @@ We are actively looking for potential collaborators to help push this community 
 
 We’re still on the journey toward building truly intelligent colonoscopy systems, and this project is very much under active development. We warmly welcome any feedback, ideas, or suggestions that can help shape its future.
 
-For any inquiries or thoughts you’d like to share, feel free to reach out to us at 📧 gepengai.ji@gmail.com
+For any inquiries or thoughts you’d like to share, feel free to reach out to us at [📮gepengai.ji@gmail.com](mailto:gepengai.ji@gmail.com)
