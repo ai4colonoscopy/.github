@@ -48,7 +48,34 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
 
 Next are some of the research breakthroughs from our team that shaped the field of intelligent colonoscopy:
 
-### 🔴 Highlight-A -- Image Analysis in Colonoscopy
+### 🔴 Survey on Intelligent Colonoscopy Techniques
+
+We introduce "ColonSurvey" project, contributing various useful resources for the community. We investigate 63 colonoscopy datasets and 137 deep learning models focused on colonoscopic scene perception, all sourced from leading conferences or journals since 2015. The below figure is a quick overview of our investigation; for a more detailed discussion, please refer to our paper in PDF format.
+
+<p align="center">
+    <img src="https://github.com/ai4colonoscopy/IntelliScope/raw/main/assets/colonsurvey.png"/> <br />
+    <em> 
+    Our investigation of 63 colonoscopy datasets and 137 deep learning models in colonoscopy.
+    </em>
+</p>
+
+
+To better understand developments in this rapidly changing field and accelerate researchers’ progress, we are building a [📖paper reading list](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?usp=sharing), which includes a number of AI-based scientific studies on colonoscopy imaging from the past 12 years. 
+*[UPDATE ON OCT-14-2024]* In detail, our online list contains:
+
+
+- Colonoscopy datasets 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=358592785#gid=358592785)
+- Colonoscopy models
+   - Classification tasks 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=0#gid=0)
+   - Detection tasks 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=1958057905#gid=1958057905)
+   - Segmentation tasks 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=190887566#gid=190887566)
+   - Vision language tasks 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=404456121#gid=404456121)
+   - 3D analysis tasks (*supplementary content) 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=1052886329#gid=1052886329)
+
+> [!note]
+> 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email (📮 gepengai.ji@gmail.com) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
+
+### 🔴 Highlight-A -- Image Analysis in Colonoscopy 🔴
 
 #### 🎯 A.1. PraNet -- A Golden Baseline for Image Polyp Segmentation
 
@@ -90,8 +117,6 @@ Next are some of the research breakthroughs from our team that shaped the field 
   - Paving the way for future research in colonoscopy video analysis.
 
 
----
-
 ### 🔴 Highlight-C -- Multimodal Analysis in Colonoscopy
 
 #### 🎯 C.1. ColonINST & ColonGPT -- Pioneering Multimodal Intelligence in Colonoscopy
@@ -113,6 +138,10 @@ Next are some of the research breakthroughs from our team that shaped the field 
 - 📚 **[Title]** Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning ([arXiv Paper](https://arxiv.org/abs/2512.03667) & [Project page](https://github.com/ai4colonoscopy/Colon-X))
 - 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
 - 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions include:
+    - ?
+    - ?
+    - ?
+
 ## 💬 Discussion Forum
 
 This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Welcome to our [AI4Colonoscopy Discussion Forum](https://github.com/orgs/ai4colonoscopy/discussions/1)
