@@ -1,6 +1,12 @@
 ![Untitled 001](https://github.com/user-attachments/assets/4ac24d1b-8725-473e-95e1-3ddcd08533a3)
 
-Hey there 👋 Ever wondered how we can make colonoscopies more effective for early cancer detection? Well, buckle up, because we're diving into the exciting world of intelligent colonoscopy!
+## ✨ Enter AI4Colonoscopy -- where cutting-edge AI meets life-saving clinical practice
+
+Hey there 👋 We’re not just making colonoscopies "more effective"; we're redefining what early detection can look like, and pushing the next frontier of intelligent healthcare.
+
+With real-time lesion recognition and decision-support powered by deep learning, AI4Colonoscopy has the potential to significantly improve diagnostic accuracy, reduce missed lesions, and ultimately save lives.
+
+Buckle up — we’re diving into a future where intelligent colonoscopy becomes the new gold standard for cancer prevention.
 
 ## 🙋 News
 
@@ -13,19 +19,18 @@ Hey there 👋 Ever wondered how we can make colonoscopies more effective for ea
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0fc5d354-e4ab-4fcf-ad7d-a047f53075e7" width="1000px" />
   <br>
-  <em> Illustration of a colonoscope inside large intestine (colon). Image credit: https://www.vecteezy.com </em>
+  <em> Illustration of a colonoscope inside large intestine (colon). (Image credit: https://www.vecteezy.com) </em>
 </p>
 
 
-Let's face it - colorectal cancer is a big deal. It's one of the top cancer killers worldwide. But here's the good news: we can often prevent it if we catch it early. That's where colonoscopies come in. They're our best shot at finding and removing those sneaky precancerous polyps before they cause trouble to your body.
-
-But here's the catch - colonoscopies are only as good as the doctor performing them. And let's be real, even the best doctors are human. They get tired, they might miss things sometimes, and some are more experienced than others.
+Let's face it - colorectal cancer is a big deal. It's one of the top cancer killers worldwide. More details refer to latest research and news by Nature: ["subject - colorectal-cancer"](https://www.nature.com/subjects/colorectal-cancer) and ["subject - colonoscopy"](https://www.nature.com/subjects/colonoscopy). Here's the good news: we can often prevent it if we catch it early. That's where colonoscopies come in, as the best preventive measure. They're our best shot at finding and removing those sneaky precancerous polyps before they cause trouble to your body.
 
 ## 🤖 Enter AI: The Game-Changer
 
 <img align="right" src="https://github.com/user-attachments/assets/0de36f70-703b-49f4-ad6b-6c53000dc632" width="475px" />
 
-This is where AI swoops in like a superhero! We're using cutting-edge artificial intelligence to endower colonoscopy a major upgrade. Think of it as giving doctors a pair of super-AI-powered glasses that help them spot things they might otherwise miss.
+
+We're using cutting-edge artificial intelligence to endower colonoscopy a major upgrade. Think of it as giving doctors a pair of super-AI-powered glasses that help them spot things they might otherwise miss.
 
 That's why we're going to explore the critical role of AI in colonoscopy. Here's what AI brings to the table:
 
@@ -39,48 +44,88 @@ That's why we're going to explore the critical role of AI in colonoscopy. Here's
     - Here's the best part - all these benefits come with zero additional risk to the patient. It's like getting a free upgrade on your health check!
 
 
-## 🌏 IntelliScope Adventure: Welcome to the World of Intelligent Colonoscopy!
+## 🌏 Welcome to the World of Intelligent Colonoscopy!
 
-The past few years have been a wild ride in the world of **intelligent colonoscopy** techniques. Let me tell you about one of our proudest achievements:
+Next are some of the research breakthroughs from our team that shaped the field of intelligent colonoscopy:
 
-- 🔥 `[2024]` **ColonINST & ColonGPT** ([arXiv Paper](https://arxiv.org/abs/2410.17241) & [Project page](https://github.com/ai4colonoscopy/IntelliScope))
-    - This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
+### 🔴 Highlight-A -- Image Analysis in Colonoscopy
+
+#### 🎯 A.1. PraNet -- A Golden Baseline for Image Polyp Segmentation
+
+[![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
+
+- 📚 **[Title]** PraNet: Parallel Reverse Attention Network for Polyp Segmentation ([Paper link](https://arxiv.org/abs/2006.11392) & [Code link](https://github.com/DengPingFan/PraNet))
+- 🏆 **[Info]** Accepted by [MICCAI 2020 (Oral Presentation)](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) and has been cited over 2,100+ times (according to [Google Scholar](https://scholar.google.com/scholar?cites=15606470069856387091&as_sdt=2005&sciodt=0,5&hl=en) as of Dec 2024). Received [Most Influential Application Paper Award at the Jittor Developer Conference 2021](https://dengpingfan.github.io/papers/PraNet-Award.pdf) and [MICCAI Young Scientist Publication Impact Award 2025](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/).
+- 🏛️ **[Authors]** [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇨🇳 Wuhan University), [Tao Zhou](https://scholar.google.com/citations?user=LPPsgWUAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
+- 🌟 **[Research Highlights]**
+  - The **most influential and widely-used baseline** for image-level polyp segmentation, shaping subsequent research directions in the field.
+  - Inspired by human visual behavior when examining lesions and their surroundings, we introduce the **Reverse Attention (RA) mechanism**, enabling the model to refine its focus on ambiguous regions.
+  - Deliver state-of-the-art segmentation performance across five challenging polyp datasets. PraNet also achieved **1st Place** in the MediaEval 2020 colonoscopy polyp segmentation challenge.
+
+#### 🎯 A.2. PraNet v2 -- Extending Reverse Attention for Multi-class Medical Segmentation
+
+
+### 🔴 Highlight-B -- Video Analysis in Colonoscopy
+
+#### 🎯 B.1. PNS-Net -- A Super-efficient Model for Video Polyp Segmentation
+
+[![arXiv](https://img.shields.io/badge/arXiv-2105.08468-b31b1b.svg)](https://arxiv.org/abs/2105.08468) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/PNS-Net?style=flat&logo=github)](https://github.com/GewelsJI/PNS-Net)
+
+- 📚 **[Title]** Progressively Normalized Self-Attention Network for Video Polyp Segmentation ([Paper link](https://arxiv.org/abs/2105.08468) & [Code link](https://github.com/GewelsJI/PNS-Net))
+- 🏆 **[Info]** Accepted by [MICCAI 2021](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) and received [MICCAI Student Travel Award](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Debesh Jha](https://scholar.google.com/citations?user=mMTyE68AAAAJ&hl=en) (🇳🇴 SimulaMet), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
+- 🌟 **[Research Highlights]**
+    - Propose **progressively normalized self-attention (PNS) module** to capture short-and long-term dependencies across colonoscopy frames.
+    - Develop PNS-Net, a super-efficient VPS model, that **runs at ~140fps on a single RTX 2080Ti GPU**, making it highly practical for real-world endoscopy systems
+
+#### 🎯 B.2. SUN-SEG -- A Large-scale Benchmark for Video Polyp Segmentation
+
+[![arXiv](https://img.shields.io/badge/arXiv-2203.14291-b31b1b.svg)](https://arxiv.org/abs/2203.14291) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/VPS?style=flat&logo=github)](https://github.com/GewelsJI/VPS)
+
+- 📚 **[Title]** Video Polyp Segmentation: A Deep Learning Perspective ([Paper link](https://arxiv.org/abs/2203.14291) & [Code link](https://github.com/GewelsJI/VPS))
+- 🏆 **[Info]** Published in [Machine Intelligence Research 2022](https://link.springer.com/article/10.1007/s11633-022-1371-y)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇺 Australian National University), [Guobao Xiao](https://jsj.mju.edu.cn/2018/1014/c2248a67381/page.htm) (🇨🇳 Minjiang University), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇺🇸 Johns Hopkins University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Kai Zhao](https://scholar.google.com/citations?hl=en&user=zR5JbZUAAAAJ) (🇺🇸 University of California, Los Angeles), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en&authuser=1) (🇨🇭 ETH Zürich)
+- 🌟 **[Research Highlights]**
+  - We construct the **largest-scale and high-quality per-frame annotated VPS dataset**, SUN-SEG, which includes 158,690 video frames along with diverse types of expert labels, including object mask, boundary, scribble, polygon, and visual attribute.
+  - Paving the way for future research in colonoscopy video analysis.
+
+
+---
+
+### 🔴 Highlight-C -- Multimodal Analysis in Colonoscopy
+
+#### 🎯 C.1. ColonINST & ColonGPT -- Pioneering Multimodal Intelligence in Colonoscopy
+
+[![arXiv](https://img.shields.io/badge/arXiv-2410.17241-b31b1b.svg)](https://arxiv.org/abs/2410.17241) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/IntelliScope?style=flat&logo=github)](https://github.com/ai4colonoscopy/IntelliScope)
+
+- 📚 **[Title]** IntelliScope: Pioneering Multimodal Intelligence in Colonoscopy ([Paper link](https://arxiv.org/abs/2410.17241) & [Code link](https://github.com/ai4colonoscopy/IntelliScope))
+- 🏆 **[Info]** Accepted by Machine Intelligence Research 2026
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇯🇵 Keio University), [Peng Xu](https://scholar.google.com/citations?user=9_v4tC0AAAAJ&hl=en) (🇨🇳 Tsinghua University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University), [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
+- 🌟 **[Research Highlights]** This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
     - 💥 Collecting a large-scale multimodal instruction tuning dataset ColonINST, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
     - 💥 Developing the first multimodal language model ColonGPT that can handle conversational tasks based on user preferences.
     - 💥 Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
-- 🔥 `[MIR-2024]` **Drag&Drop** ([Paper](https://link.springer.com/article/10.1007/s11633-023-1380-5) & [Code](https://github.com/johnson111788/Drag-Drop))
-    - Authors: [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇺🇸 Johns Hopkins University), [Bowen Li](https://scholar.google.com/citations?user=UfINwO0AAAAJ&hl=en) (🇺🇸 Johns Hopkins University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Alan Yuille](https://scholar.google.com.tw/citations?user=FJ-huxgAAAAJ&hl=en) (🇺🇸 Johns Hopkins University), [Zongwei Zhou](https://scholar.google.com.tw/citations?user=JVOeczAAAAAJ&hl=en) (🇺🇸 Johns Hopkins University)
-    - 💥 We introduces the first high-dimensional annotation method, eliminating the need for slice-by-slice labeling.
-    - Cuts annotation effort by 87.5% in video polyp detection while maintaining or improving performance.
-    - Increases polyp detection precision by 7.8% with the same annotation budget compared to per-pixel methods.
-- 🔥 `[MIR-2022]` **SUN-SEG** ([Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y) & [Code](https://github.com/GewelsJI/VPS))
-    - Authors: [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇺 Australian National University), [Guobao Xiao](https://jsj.mju.edu.cn/2018/1014/c2248a67381/page.htm) (🇨🇳 Minjiang University), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇺🇸 Johns Hopkins University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Kai Zhao](https://scholar.google.com/citations?hl=en&user=zR5JbZUAAAAJ) (🇺🇸 University of California, Los Angeles), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en&authuser=1) (🇨🇭 ETH Zürich)
-    - 💥 We introduce a large-scale and high-quality per-frame annotated VPS dataset, named SUN-SEG, which includes 158,690 frames from the famous [SUN-database](http://amed8k.sundatabase.org/). We extend the expert labels with diverse types, ie, object mask, boundary, scribble, polygon, and visual attribute.
-    - Paving the way for future research in colonoscopy video content analysis, with fine-grained categories, annotations.
-- 🔥 `[MICCAI'2021]` **PNS-Net** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) & [Code](https://github.com/GewelsJI/PNS-Net))
-    - Authors: [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Debesh Jha](https://scholar.google.com/citations?user=mMTyE68AAAAJ&hl=en) (🇳🇴 SimulaMet), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
-    - 💥 This super-efficient model (~140fps) is designed for video-level polyp segmentation.
-    - We received MICCAI Student Travel Award ([link](https://www.miccai2021.org/en/MICCAI-2021-TRAVEL-AWARDS.html))
-    - It's already racked up over 130 citations ([Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oaxKYKUAAAAJ&authuser=1&citation_for_view=oaxKYKUAAAAJ:MXK_kJrjxJIC)).
-- `[MICCAI'2020]` **PraNet** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) & [Code](https://github.com/DengPingFan/PraNet))
-    - Authors: [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇨🇳 Wuhan University), [Tao Zhou](https://scholar.google.com/citations?user=LPPsgWUAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
-    - 💥 A gloden baseline for image-level polyp segmentation
-    - It's racked up over 1,100 citations on [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kakwJ5QAAAAJ&authuser=1&citation_for_view=kakwJ5QAAAAJ:_B80troHkn4C), and counting!
-    - Our [GitHub repo](https://github.com/DengPingFan/PraNet) is very popular with more than 400 stars!
 
-<!-- One more thing, we ready some handbooks for your convenienice to dive into this research domain
+#### 🎯 C.2. Colon-X -- Advancing colonoscopy from Multimodal Understanding to Clinical Reasoning
 
-- Must read papers related to colonoscopy [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy) 
-- [colonoscopy-dataset] -->
+[![arXiv](https://img.shields.io/badge/arXiv-2512.03667-b31b1b.svg)](https://arxiv.org/abs/2512.03667) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/Colon-X?style=flat&logo=github)](https://github.com/ai4colonoscopy/Colon-X)
 
-## 🔭 Move Forward Bravely
+- 📚 **[Title]** Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning ([arXiv Paper](https://arxiv.org/abs/2512.03667) & [Project page](https://github.com/ai4colonoscopy/Colon-X))
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
+- 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions include:
+## 💬 Discussion Forum
 
-This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Stay tuned, and let’s revolutionize cancer prevention together! Feel free to reach out (📧 gepengai.ji@gmail.com) if you're interested in collaborating and pushing the boundaries of intelligent colonoscopy. Welcome to our [AI4Colonoscopy Discussion Forum](https://github.com/orgs/ai4colonoscopy/discussions/1)
+This is just the start of building our Roman Empire 🔱. We’re on a mission to make colonoscopies smarter, more accurate, and ultimately, save more lives. Want to join us on this exciting journey? Welcome to our [AI4Colonoscopy Discussion Forum](https://github.com/orgs/ai4colonoscopy/discussions/1)
+
   - [(SUBFORUM#1) ask any questions](https://github.com/orgs/ai4colonoscopy/discussions/categories/any-q-a) 😥 *“论文中遇见了问题？代码不会跑？“*
   - [(SUBFORUM#2) showcase/promote your work](https://github.com/orgs/ai4colonoscopy/discussions/categories/show-tell) 😥 *”想增加论文影响力？如何向社区宣传自己的工作？“*
   - [(SUBFORUM#3) access data resources](https://github.com/orgs/ai4colonoscopy/discussions/categories/data-helpdesk) 😥 *“下载不到数据？如何使用/处理手头的数据？”*
   - [(SUBFORUM#4) share research ideas](https://github.com/orgs/ai4colonoscopy/discussions/categories/ideas-collaborations) 😥 *”找不到合作者？想不出有趣的idea？“*
-<!-- - 🔥 **Handbook** ➡️ refer to our [awesome-intelligent-colonoscopy](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy)
-  - Explore our curated list of must-read colonoscopy literature, complete with detailed intensive/extensive reading notes for your convenience.
-- 🔥 **AI Express** ➡️ refer to our [ai-paper-express](https://github.com/ai4colonoscopy/awesome-intelligent-colonoscopy/tree/main/ai-paper-express)
-  - Discover a platform for sharing the latest AI research papers across various fields, not limited to medical domains. -->
+
+## 🧩 Collaborating towards the neXt frontier
+
+We are actively looking for potential collaborators to help push this community forward — especially **hospitals or medical institutions that can provide diverse, real-world clinical colonoscopy data (eg., data across different devices, modalities, patient populations, and clinical workflows)**. If you’re interested in contributing or partnering with us, we’d be very happy to connect.
+
+We’re still on the journey toward building truly intelligent colonoscopy systems, and this project is very much under active development. We warmly welcome any feedback, ideas, or suggestions that can help shape its future.
+
+For any inquiries or thoughts you’d like to share, feel free to reach out to us at 📧 gepengai.ji@gmail.com
