@@ -97,6 +97,15 @@ To better understand developments in this rapidly changing field and accelerate 
   - Inspired by human visual behavior when examining lesions and their surroundings, we introduce the **Reverse Attention (RA) mechanism**, enabling the model to refine its focus on ambiguous regions.
   - Deliver state-of-the-art segmentation performance across five challenging polyp datasets. PraNet also achieved **1st Place** in the MediaEval 2020 colonoscopy polyp segmentation challenge.
 
+    @inproceedings{fan2020pranet,
+      title={Pranet: Parallel reverse attention network for polyp segmentation},
+      author={Fan, Deng-Ping and Ji, Ge-Peng and Zhou, Tao and Chen, Geng and Fu, Huazhu and Shen, Jianbing and Shao, Ling},
+      booktitle={International conference on medical image computing and computer-assisted intervention},
+      pages={263--273},
+      year={2020},
+      organization={Springer}
+    }
+
 #### 🎯 A.2. PraNet v2 -- Adapting Reverse Attention for Multi-class Medical Segmentation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.10986-b31b1b.svg)](https://arxiv.org/abs/2504.10986) [![GitHub Repo stars](https://img.shields.io/github/stars/ai4colonoscopy/PraNet-V2?style=flat&logo=github)](https://github.com/ai4colonoscopy/PraNet-V2)
