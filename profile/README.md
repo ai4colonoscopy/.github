@@ -54,7 +54,7 @@ Next are some of the research breakthroughs from our team that shaped the field 
 > 📌 **Make our community great again.** If we miss your valuable work in google sheet, please add it and this project would be a nice platform to promote your work. Or anyone can inform us via email ([📮gepengai.ji@gmail.com](mailto:gepengai.ji@gmail.com)) or push a PR in github. We will work on your request as soon as possible. Thank you for your active feedback.
 
 
-We introduce "ColonSurvey" via investigating 63 colonoscopy datasets and 137 deep learning models focused on colonoscopic scene perception, all sourced from leading conferences or journals since 2015. The below figure is a quick overview of our investigation; for a more detailed discussion, please refer to our paper: [Frontiers in Intelligent Colonoscopy](https://arxiv.org/abs/2410.17241).
+We introduce "ColonSurvey" via investigating 63 colonoscopy datasets and 137 deep learning models focused on colonoscopic scene perception, all sourced from leading conferences or journals since 2015. The below figure is a quick overview of our investigation; for a more detailed discussion, please refer to our survey paper: [Frontiers in Intelligent Colonoscopy](https://arxiv.org/abs/2410.17241).
 
 <p align="center">
     <img src="https://github.com/ai4colonoscopy/IntelliScope/raw/main/assets/colonsurvey.png"/> <br />
@@ -76,9 +76,9 @@ To better understand developments in this rapidly changing field and accelerate 
    - 3D analysis tasks (*supplementary content) 🔗 [Google sheet](https://docs.google.com/spreadsheets/d/1V_s99Jv9syzM6FPQAJVQqOFm5aqclmrYzNElY6BI18I/edit?gid=1052886329#gid=1052886329)
 
 
-### 🔴 Highlight-A -- Image Analysis in Colonoscopy 🔴
+### 🔴 Highlight-A -- Image Analysis in Colonoscopy
 
-#### 🎯 A.1. PraNet -- A Golden Baseline for Image Polyp Segmentation
+#### 🎯 A.1. PraNet -- Bring Reverse Attention for Segmenting Ambiguous Camouflaged Lesions
 
 [![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
 
@@ -89,6 +89,20 @@ To better understand developments in this rapidly changing field and accelerate 
     </em>
 </p>
 
+> [!NOTE]
+> 📌 **Our Motivation of Reverse Attention -- "Attention Reorienting Mechanism"**
+>
+> The attention reorienting refers to the phenomenon where human visual attention does not remain fixed, but instead **shifts periodically and rhythmically across different regions of the visual field**.
+> 
+> This process is especially prominent **when the brain encounters ambiguous, low-contrast, or uncertain information**. Rather than committing to a single viewpoint, the visual system continuously revisits these regions to refine perception, reduce uncertainty, and improve recognition accuracy.
+>
+> A classic study in visual neuroscience, "[ORIENTING OF ATTENTION. Posner, 1980](https://www2.psychology.uiowa.edu/faculty/hollingworth/prosem/scan_posner_1980.pdf)" indicate several key aspects of this phenomenon:
+> - Attention shifts even without eye movements (covert reorientation).
+> - These shifts tend to occur periodically -- the brain scans → evaluates → rescans.
+> - Ambiguous or important regions receive more frequent revisits.
+> 
+> In shortm this mechanism is crucial for tasks such as detecting lesions, identifying boundaries, or resolving camouflaged objects. **Our Reverse Attention (RA) mimics this periodic reorientation** by refocusing on uncertain areas after processing more obvious regions.
+
 - 📚 **[Title]** PraNet: Parallel Reverse Attention Network for Polyp Segmentation ([Paper link](https://arxiv.org/abs/2006.11392) & [Code link](https://github.com/DengPingFan/PraNet))
 - 🏆 **[Info]** Accepted by [MICCAI 2020 (Oral Presentation)](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) and has been cited over 2,100+ times (according to [Google Scholar](https://scholar.google.com/scholar?cites=15606470069856387091&as_sdt=2005&sciodt=0,5&hl=en) as of Dec 2024). Received [Most Influential Application Paper Award at the Jittor Developer Conference 2021](https://dengpingfan.github.io/papers/PraNet-Award.pdf) and [MICCAI Young Scientist Publication Impact Award 2025](https://miccai.org/index.php/about-miccai/awards/young-scientist-impact-award/).
 - 🏛️ **[Authors]** [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇨🇳 Wuhan University), [Tao Zhou](https://scholar.google.com/citations?user=LPPsgWUAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Geng Chen](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Huazhu Fu](https://scholar.google.com/citations?user=jCvUBYMAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en) (🇦🇪 Inception Institute of Artificial Intelligence), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence)
@@ -97,15 +111,14 @@ To better understand developments in this rapidly changing field and accelerate 
   - Inspired by human visual behavior when examining lesions and their surroundings, we introduce the **Reverse Attention (RA) mechanism**, enabling the model to refine its focus on ambiguous regions.
   - Deliver state-of-the-art segmentation performance across five challenging polyp datasets. PraNet also achieved **1st Place** in the MediaEval 2020 colonoscopy polyp segmentation challenge.
 - 📈 **[Citation]**
-
     ```bibliography
     @inproceedings{fan2020pranet,
-    title={Pranet: Parallel reverse attention network for polyp segmentation},
-    author={Fan, Deng-Ping and Ji, Ge-Peng and Zhou, Tao and Chen, Geng and Fu, Huazhu and Shen, Jianbing and Shao, Ling},
-    booktitle={International conference on medical image computing and computer-assisted intervention},
-    pages={263--273},
-    year={2020},
-    organization={Springer}
+      title={Pranet: Parallel reverse attention network for polyp segmentation},
+      author={Fan, Deng-Ping and Ji, Ge-Peng and Zhou, Tao and Chen, Geng and Fu, Huazhu and Shen, Jianbing and Shao, Ling},
+      booktitle={International conference on medical image computing and computer-assisted intervention},
+      pages={263--273},
+      year={2020},
+      organization={Springer}
     }
     ```
 
@@ -122,9 +135,18 @@ To better understand developments in this rapidly changing field and accelerate 
 - 🏆 **[Info]** Accepted by Computational Visual Media 2025
 - 🏛️ **[Authors]** [Bo-Cheng Hu](https://scholar.google.com/citations?user=VBb03aoAAAAJ) (🇨🇳 Nankai University), [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), [Dian Shao](https://scholar.google.com/citations?user=amxDSLoAAAAJ) (🇨🇳 Northwest Polytechnical University, [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
 - 🌟 **[Research Highlights]**
-  - We extend the Reverse Attention (RA) mechanism from binary polyp segmentation to **multi-class medical image segmentation**.
+  - We extend the Reverse Attention (RA) mechanism from binary polyp segmentation (ie., ours [PraNet-V1](https://arxiv.org/abs/2006.11392) published at MICCAI2020) to **multi-class** medical image segmentation.
   - We introduce a **dual-supervised RA learning strategy**, which incorporates both primary and auxiliary supervision to enhance feature representation.
   - PraNet-V2 achieves state-of-the-art performance on multiple challenging medical image segmentation datasets, demonstrating its versatility and effectiveness across various tasks.  
+- 📈 **[Citation]**
+    ```bibliography
+    @article{hu2025pranet,
+      title={PraNet-V2: Dual-Supervised Reverse Attention for Medical Image Segmentation},
+      author={Hu, Bo-Cheng and Ji, Ge-Peng and Shao, Dian and Fan, Deng-Ping},
+      journal={Computational Visual Media},
+      year={2025}
+    }
+    ```
 
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
 
@@ -148,6 +170,18 @@ To better understand developments in this rapidly changing field and accelerate 
 - 🌟 **[Research Highlights]**
     - Propose **progressively normalized self-attention (PNS) module** to capture short-and long-term dependencies across colonoscopy frames.
     - Develop PNS-Net, a super-efficient VPS model, that **runs at ~140fps on a single RTX 2080Ti GPU**, making it highly practical for real-world endoscopy systems
+- 📈 **[Citation]**
+    ```bibliography
+    @inproceedings{ji2021progressively,
+    title={Progressively normalized self-attention network for video polyp segmentation},
+    author={Ji, Ge-Peng and Chou, Yu-Cheng and Fan, Deng-Ping and Chen, Geng and Fu, Huazhu and Jha, Debesh and Shao, Ling},
+    booktitle={International conference on medical image computing and computer-assisted intervention},
+    pages={142--152},
+    year={2021},
+    organization={Springer}
+    }
+    ```
+
 
 #### 🎯 B.2. SUN-SEG -- A Large-scale Benchmark for Video Polyp Segmentation
 
@@ -166,7 +200,19 @@ To better understand developments in this rapidly changing field and accelerate 
 - 🌟 **[Research Highlights]**
   - We construct the **largest-scale and high-quality per-frame annotated VPS dataset**, SUN-SEG, which includes 158,690 video frames along with diverse types of expert labels, including object mask, boundary, scribble, polygon, and visual attribute.
   - Paving the way for future research in colonoscopy video analysis.
-
+- 📈 **[Citation]**
+    ```bibliography
+    @article{ji2022video,
+    title={Video polyp segmentation: A deep learning perspective},
+    author={Ji, Ge-Peng and Xiao, Guobao and Chou, Yu-Cheng and Fan, Deng-Ping and Zhao, Kai and Chen, Geng and Van Gool, Luc},
+    journal={Machine Intelligence Research},
+    volume={19},
+    number={6},
+    pages={531--549},
+    year={2022},
+    publisher={Springer}
+    }
+    ```
 
 ### 🔴 Highlight-C -- Multimodal Analysis in Colonoscopy
 
@@ -189,6 +235,16 @@ To better understand developments in this rapidly changing field and accelerate 
     - 💥 Collecting a large-scale multimodal instruction tuning dataset **ColonINST**, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
     - 💥 Developing the first multimodal language model **ColonGPT** that can handle conversational tasks based on user preferences.
     - Launching a multimodal benchmark to enable fair and rapid comparisons going forward.
+- 📈 **[Citation]**
+    ```bibliography
+    @article{ji2026frontiers,
+    title={Frontiers in intelligent colonoscopy},
+    author={Ji, Ge-Peng and Liu, Jingyi and Xu, Peng and Barnes, Nick and Khan, Fahad Shahbaz and Khan, Salman and Fan, Deng-Ping},
+    journal={Machine Intelligence Research},
+    year={2026}
+    }
+    ```
+
 
 #### 🎯 C.2. Colon-X -- Advancing colonoscopy from Multimodal Understanding to Clinical Reasoning
 
@@ -209,6 +265,15 @@ To better understand developments in this rapidly changing field and accelerate 
     - We introduce ColonVQA, the **most extensive** (1.1+ million VQA entries), **category-rich** (212,742 images across 76 clinically meaningful findings), and **task-diverse** (18 multimodal tasks organized within a five-level taxonomy) dataset ever built for multimodal colonoscopy analysis. 
     - We characterize two multimodal understanding behaviors – generalizability (**ColonEval**) and reliability (**ColonPert**) – in colonoscopy tasks, and reveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
     - 💥 We propose a reasoning-focused solution. It includes **ColonReason**, a reasoning dataset annotated by a multi-expert debating pipeline, and **ColonR1**, an R1-styled model enhanced with task-adaptive rewards and gradient-stable optimization, setting a new cutting-edge baseline for colonoscopy analysis.
+- 📈 **[Citation]**
+    ```bibliography
+    @article{ji2025colon,
+    title={Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning},
+    author={Ji, Ge-Peng and Liu, Jingyi and Fan, Deng-Ping and Barnes, Nick},
+    journal={arXiv preprint arXiv:2512.03667},
+    year={2025}
+    }
+    ```
 
 ## 💬 Discussion Forum
 
