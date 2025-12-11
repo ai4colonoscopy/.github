@@ -78,7 +78,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 ### 🔴 Highlight-A -- Image Analysis in Colonoscopy
 
-#### 🎯 A.1. PraNet -- Bring Reverse Attention for Segmenting Camouflaged Lesions
+#### 🎯 A.1. PraNet -- Reverse Attention for Segmenting Camouflaged Lesions
 
 [![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
 
