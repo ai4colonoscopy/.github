@@ -150,18 +150,22 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 A.3. DGNet -- The Importance of Boundary Cues in Detecting Camouflaged Lesions
 
+[![Springer Article](https://img.shields.io/badge/Springer-Article-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/article/10.1007/s11633-022-1365-9) [![arXiv PDF](https://img.shields.io/badge/arXiv-PDF-b31b1b.svg)](https://arxiv.org/pdf/2205.12853) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/DGNet-V2?style=flat&logo=github)](https://github.com/GewelsJI/DGNet)
+
 <div align='left'>
 <video src="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a" controls width="600" />
 </div>
 
 - 📚 **[Title]** Deep Gradient Learning for Efficient Camouflaged Object Detection ([Paper link](https://arxiv.org/pdf/2205.12853) & [Code link](https://github.com/GewelsJI/DGNet))
 - 🏆 **[Info]** Accepted by [MIR 2023](https://link.springer.com/article/10.1007/s11633-022-1365-9)
-- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Dengxin Dai](https://scholar.google.com/citations?user=T51W57YAAAAJ&hl=zh-CN&oi=ao) (🇩🇪 Saarbrücken), [Alexander
-Liniger](https://scholar.google.com/citations?user=amb0lc0AAAAJ&hl=zh-CN&oi=ao)(🇨🇭 ETH Zürich), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=zh-CN&oi=ao) (🇨🇭 ETH Zürich)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Dengxin Dai](https://scholar.google.com/citations?user=T51W57YAAAAJ&hl=zh-CN&oi=ao) (🇨🇭 ETH Zürich), [Alexander Liniger](https://scholar.google.com/citations?user=amb0lc0AAAAJ&hl=zh-CN&oi=ao)(🇨🇭 ETH Zürich), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=zh-CN&oi=ao) (🇨🇭 ETH Zürich)
 - 🌟 **[Research Highlights]**
   - We propose DGNet, a novel framework that decouples context and texture learning via a Gradient-Induced Transition (GIT) module to exploit object gradient supervision.
   - We develop DGNet-S, a highly efficient model running at 80 fps with only 6.82% of the parameters found in cutting-edge competitors like JCSOD.
   - Achieve SOTA performance on three COD benchmarks and demonstrate strong generalization across downstream tasks like polyp segmentation and defect detection.
+- 📝 **[Downstream Applications]** (Coming soon...)
+  - Polyp Segmentation
+  - Teeth Segmentation
 - 📈 **[Citation]**
   ```
   @article{ji2023gradient,
@@ -174,20 +178,6 @@ Liniger](https://scholar.google.com/citations?user=amb0lc0AAAAJ&hl=zh-CN&oi=ao)(
     year={2023}
   } 
   ```
-
-- **Application 1: Polyp Segmentation**
-
-  - Challenge: In colonoscopy, the low boundary contrast between polyps and their highly similar surroundings significantly reduces detectability for early diagnosis.
-  - Method: To validate generalization in the medical field, we retrained DGNet on the Kvasir-SEG and CVC-ClinicDB datasets.
-  - Performance: On two unseen test datasets (CVC-ColonDB and ETIS-LPDB), DGNet consistently surpassed four cutting-edge polyp segmentation methods across four metrics, including the maximum Dice score.
-
-- **Application 2: Teeth Segmentation**
-  - 📚 **[Title]** Q-Bone: An Intelligent Quantitative System for Alveolar Bone Loss to Assist the Diagnosis of Periodontitis — Model Development and Validation (Paper coming soon ...)
-  - 🏛️ **[Authors]** Wei Li, [Jingyi Liu](https://github.com/Jancsi9981) (🇨🇳 Nankai University), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), Jiang Lin*
-  - 🌟 **[Research Highlights]**
-      - Use DGNet achieving robust tooth segmentation and precise key point localization across heterogeneous imaging devices.
-      - Develop an anatomically-driven quantification algorithm utilizing local coordinate systems and curve fitting for periodontitis staging and grading.
-      - Validate on multi-center clinical cases, demonstrating expert-level measurement consistency and high diagnostic accuracy for periodontitis staging.
 
 
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
