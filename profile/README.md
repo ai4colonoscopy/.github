@@ -80,7 +80,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 A.1. PraNet -- Reverse Attention for Segmenting Camouflaged Lesions
 
-[![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
+[![Springer](https://img.shields.io/badge/Springer-Link-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26) [![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/9dfa8007-af53-4213-9bec-e548fe159261"/> <br />
@@ -96,7 +96,7 @@ To better understand developments in this rapidly changing field and accelerate 
 > 
 > This process is especially prominent **when the brain encounters ambiguous, low-contrast, or uncertain information**. Rather than committing to a single viewpoint, the visual system continuously revisits these regions to refine perception, reduce uncertainty, and improve recognition accuracy.
 >
-> A classic study in visual neuroscience, "[ORIENTING OF ATTENTION. Posner, 1980](https://www2.psychology.uiowa.edu/faculty/hollingworth/prosem/scan_posner_1980.pdf)" indicate several key aspects of this phenomenon:
+> A classic study in visual neuroscience, [*"ORIENTING OF ATTENTION. Posner, 1980"*](https://www2.psychology.uiowa.edu/faculty/hollingworth/prosem/scan_posner_1980.pdf) indicate several key aspects of this phenomenon:
 > - Attention shifts even without eye movements (covert reorientation).
 > - These shifts tend to occur periodically -- the brain scans → evaluates → rescans.
 > - Ambiguous or important regions receive more frequent revisits.
@@ -150,6 +150,8 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 A.3. DGNet -- The Importance of Boundary Cues in Detecting Camouflaged Lesions
 
+[![Springer Article](https://img.shields.io/badge/Springer-View%20Article-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/article/10.1007/s11633-022-1365-9) 
+
 - Application 1: Polyp Segmentation
 - Application 2: Teeth Segmentation
 
@@ -158,7 +160,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 B.1. PNS-Net -- A Super-efficient Model for Video Polyp Segmentation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2105.08468-b31b1b.svg)](https://arxiv.org/abs/2105.08468) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/PNS-Net?style=flat&logo=github)](https://github.com/GewelsJI/PNS-Net)
+[![Springer Chapter](https://img.shields.io/badge/Springer-Chapter-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14) [![arXiv](https://img.shields.io/badge/arXiv-2105.08468-b31b1b.svg)](https://arxiv.org/abs/2105.08468) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/PNS-Net?style=flat&logo=github)](https://github.com/GewelsJI/PNS-Net)
 
 <p align="center">
     <img src="https://github.com/GewelsJI/PNS-Net/raw/main/imgs/VideoPresentation-min.gif"/> <br />
