@@ -163,7 +163,7 @@ To better understand developments in this rapidly changing field and accelerate 
   - We propose DGNet, a novel framework that decouples context and texture learning via a Gradient-Induced Transition (GIT) module to exploit object gradient supervision.
   - We develop DGNet-S, a highly efficient model running at 80 fps with only 6.82% of the parameters found in cutting-edge competitors like JCSOD.
   - Achieve SOTA performance on three COD benchmarks and demonstrate strong generalization across downstream tasks like polyp segmentation and defect detection.
-- 📝 **[Downstream Applications]** (Coming soon...)
+- 📝 **[Downstream Applications]** (Ongoing developments, and scheduled release time by March 2026, stay tuned!)
   - Polyp Segmentation
   - Teeth Segmentation
 - 📈 **[Citation]**
