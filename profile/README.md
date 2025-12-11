@@ -193,7 +193,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 B.2. SUN-SEG -- A Large-scale Benchmark for Video Polyp Segmentation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2203.14291-b31b1b.svg)](https://arxiv.org/abs/2203.14291) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/VPS?style=flat&logo=github)](https://github.com/GewelsJI/VPS)
+[![Springer Article](https://img.shields.io/badge/Springer-View%20Article-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/article/10.1007/s11633-022-1371-y) [![arXiv](https://img.shields.io/badge/arXiv-2203.14291-b31b1b.svg)](https://arxiv.org/abs/2203.14291) [![GitHub Repo stars](https://img.shields.io/github/stars/GewelsJI/VPS?style=flat&logo=github)](https://github.com/GewelsJI/VPS)
 
 <p align="center">
     <img src="https://github.com/GewelsJI/VPS/raw/main/assets/background-min.gif"/> <br />
