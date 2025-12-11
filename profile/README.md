@@ -150,10 +150,44 @@ To better understand developments in this rapidly changing field and accelerate 
 
 #### 🎯 A.3. DGNet -- The Importance of Boundary Cues in Detecting Camouflaged Lesions
 
-[![Springer Article](https://img.shields.io/badge/Springer-View%20Article-6fa8dc?logo=spring&logoColor=white)](https://link.springer.com/article/10.1007/s11633-022-1365-9) 
+<div align='left'>
+<video src="https://github.com/GewelsJI/DGNet/assets/38354957/ceff5686-8b91-4e03-b164-0780c402b68a" controls width="600" />
+</div>
 
-- Application 1: Polyp Segmentation
-- Application 2: Teeth Segmentation
+- 📚 **[Title]** Deep Gradient Learning for Efficient Camouflaged Object Detection ([Paper link](https://arxiv.org/pdf/2205.12853) & [Code link](https://github.com/GewelsJI/DGNet))
+- 🏆 **[Info]** Accepted by [MIR 2023](https://link.springer.com/article/10.1007/s11633-022-1365-9)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇭 ETH Zürich), [Yu-Cheng Chou](https://scholar.google.com.tw/citations?user=YVNRBTcAAAAJ&hl) (🇨🇳 Wuhan University), [Dengxin Dai](https://scholar.google.com/citations?user=T51W57YAAAAJ&hl=zh-CN&oi=ao) (🇩🇪 Saarbrücken), [Alexander
+Liniger](https://scholar.google.com/citations?user=amb0lc0AAAAJ&hl=zh-CN&oi=ao)(🇨🇭 ETH Zürich), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=zh-CN&oi=ao) (🇨🇭 ETH Zürich)
+- 🌟 **[Research Highlights]**
+  - We propose DGNet, a novel framework that decouples context and texture learning via a Gradient-Induced Transition (GIT) module to exploit object gradient supervision.
+  - We develop DGNet-S, a highly efficient model running at 80 fps with only 6.82% of the parameters found in cutting-edge competitors like JCSOD.
+  - Achieve SOTA performance on three COD benchmarks and demonstrate strong generalization across downstream tasks like polyp segmentation and defect detection.
+- 📈 **[Citation]**
+  ```
+  @article{ji2023gradient,
+    title={Deep Gradient Learning for Efficient Camouflaged Object Detection},
+    author={Ji, Ge-Peng and Fan, Deng-Ping and Chou, Yu-Cheng and Dai, Dengxin and Liniger, Alexander and Van Gool, Luc},
+    journal={Machine Intelligence Research},
+    pages={92-108},
+    volume={20},
+    issue={1},
+    year={2023}
+  } 
+  ```
+
+- **Application 1: Polyp Segmentation**
+
+  - Challenge: In colonoscopy, the low boundary contrast between polyps and their highly similar surroundings significantly reduces detectability for early diagnosis.
+  - Method: To validate generalization in the medical field, we retrained DGNet on the Kvasir-SEG and CVC-ClinicDB datasets.
+  - Performance: On two unseen test datasets (CVC-ColonDB and ETIS-LPDB), DGNet consistently surpassed four cutting-edge polyp segmentation methods across four metrics, including the maximum Dice score.
+
+- **Application 2: Teeth Segmentation**
+  - 📚 **[Title]** Q-Bone: An Intelligent Quantitative System for Alveolar Bone Loss to Assist the Diagnosis of Periodontitis — Model Development and Validation (Paper coming soon ...)
+  - 🏛️ **[Authors]** Wei Li, [Jingyi Liu](https://github.com/Jancsi9981) (🇨🇳 Nankai University), [Ge-Peng Ji](https://scholar.google.com/citations?user=oaxKYKUAAAAJ&hl=en&authuser=1) (🇦🇪 Inception Institute of Artificial Intelligence), [Deng-Ping Fan](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), Jiang Lin*
+  - 🌟 **[Research Highlights]**
+      - Use DGNet achieving robust tooth segmentation and precise key point localization across heterogeneous imaging devices.
+      - Develop an anatomically-driven quantification algorithm utilizing local coordinate systems and curve fitting for periodontitis staging and grading.
+      - Validate on multi-center clinical cases, demonstrating expert-level measurement consistency and high diagnostic accuracy for periodontitis staging.
 
 
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
@@ -238,7 +272,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 - 📚 **[Title]** Frontiers in Intelligent Colonoscopy ([Paper link](https://arxiv.org/abs/2410.17241) & [Code link](https://github.com/ai4colonoscopy/IntelliScope))
 - 🏆 **[Info]** Accepted by Machine Intelligence Research 2026
-- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇯🇵 Keio University), [Peng Xu](https://scholar.google.com/citations?user=9_v4tC0AAAAJ&hl=en) (🇨🇳 Tsinghua University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University), [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), [Jingyi Liu](https://github.com/Jancsi9981) (🇯🇵 Keio University), [Peng Xu](https://scholar.google.com/citations?user=9_v4tC0AAAAJ&hl=en) (🇨🇳 Tsinghua University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University), [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&authuser=1) (🇦🇪 MBZUAI), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University)
 - 🌟 **[Research Highlights]** This year, we’re taking intelligent colonoscopy to the next level, a multimodal world, with three groundbreaking initiatives:
     - 💥 Collecting a large-scale multimodal instruction tuning dataset **ColonINST**, featuring 300K+ colonoscopy images, 62 categories, 128K+ GPT-4V-generated medical captions, and 450K+ human-machine dialogues.
     - 💥 Developing the first multimodal language model **ColonGPT** that can handle conversational tasks based on user preferences.
@@ -268,7 +302,7 @@ To better understand developments in this rapidly changing field and accelerate 
 
 - 📚 **[Title]** Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning ([arXiv Paper](https://arxiv.org/abs/2512.03667) & [Project page](https://github.com/ai4colonoscopy/Colon-X))
 - 🏆 **[Info]** Under reviewing
-- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), Jingyi Liu (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
+- 🏛️ **[Authors]** [Ge-Peng Ji](https://scholar.google.com/citations?hl=en&authuser=1&user=oaxKYKUAAAAJ) (🇦🇺 Australian National University), [Jingyi Liu](https://github.com/Jancsi9981) (🇨🇳 Nankai University), [Deng-Ping Fan*](https://scholar.google.com/citations?user=kakwJ5QAAAAJ&hl=en) (🇨🇳 Nankai University), [Nick Barnes](https://scholar.google.com/citations?hl=en&user=yMXs1WcAAAAJ) (🇦🇺 Australian National University)
 - 🌟 **[Research Highlights]** In this project, we are pushing the boundaries of intelligent colonoscopy by transitioning from multimodal understanding to clinical reasoning. Our key contributions are three-fold:
     - We introduce ColonVQA, the **most extensive** (1.1+ million VQA entries), **category-rich** (212,742 images across 76 clinically meaningful findings), and **task-diverse** (18 multimodal tasks organized within a five-level taxonomy) dataset ever built for multimodal colonoscopy analysis. 
     - We characterize two multimodal understanding behaviors – generalizability (**ColonEval**) and reliability (**ColonPert**) – in colonoscopy tasks, and reveal that clinical outputs from leading MLLMs remain far from robust and trustworthy.
