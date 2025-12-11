@@ -83,7 +83,7 @@ To better understand developments in this rapidly changing field and accelerate 
 [![arXiv](https://img.shields.io/badge/arXiv-2006.11392-b31b1b.svg)](https://arxiv.org/abs/2006.11392) [![GitHub Repo stars](https://img.shields.io/github/stars/DengPingFan/PraNet?style=flat&logo=github)](https://github.com/DengPingFan/PraNet)
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b5db2d03-48fc-4419-b932-83463214a667"/> <br />
+    <img src="https://github.com/user-attachments/assets/9dfa8007-af53-4213-9bec-e548fe159261"/> <br />
     <em> 
     Photo for MICCAI Young Scientist Publication Impact Award 2025 
     </em>
