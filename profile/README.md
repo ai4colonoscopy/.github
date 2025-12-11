@@ -148,6 +148,12 @@ To better understand developments in this rapidly changing field and accelerate 
     }
     ```
 
+#### 🎯 A.3. DGNet -- The Importance of Boundary Cues in Detecting Ambiguous Lesions
+
+- Application 1: Polyp Segmentation
+- Application 2: Teeth Segmentation
+
+
 ### 🔴 Highlight-B -- Video Analysis in Colonoscopy
 
 #### 🎯 B.1. PNS-Net -- A Super-efficient Model for Video Polyp Segmentation
